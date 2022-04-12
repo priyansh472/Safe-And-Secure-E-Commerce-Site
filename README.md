@@ -15,7 +15,7 @@ Run command on terminal:  python manage.py runserver
 
 Open the localhost url (27.0.0.1:8000) that the terminal provides on success. 
 
-On mac ios 
+On mac 
 
 Install Python3 or latest version in your system. 
 
